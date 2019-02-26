@@ -14,12 +14,14 @@ This application implements a NoSQL database called Realm. Database transactions
 
 ### Screenshots
 
-Yet to update. Till then, clone the app and check it out :)
+<img src="https://user-images.githubusercontent.com/10433759/53419527-0e8c5680-3a00-11e9-93e5-fe9442813844.gif" width="300" hspace="20"/><img src="https://user-images.githubusercontent.com/10433759/53419994-ee10cc00-3a00-11e9-983b-742416344ebc.png" width="300" hspace="20"/><img src="https://user-images.githubusercontent.com/10433759/53420152-3cbe6600-3a01-11e9-86e8-43666b97b213.png" width="300" hspace="20"/>
+
+
 
 ## Contributions
 * Post your proposal on the issue tracker so that we can review it together.
 * Respond to code reviews.
-* Sit back, watch your PR's being merged and get yourself a coffee.
+* Sit back, watch your PR's being merged and get yourself a filter coffee.
 
 ## License
 ```
